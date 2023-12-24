@@ -7,3 +7,4 @@
         2. Builder
         3. Prototype
         4. Registry
+        5. Factory
