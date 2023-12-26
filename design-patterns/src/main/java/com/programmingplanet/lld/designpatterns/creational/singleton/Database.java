@@ -1,5 +1,5 @@
 package com.programmingplanet.lld.designpatterns.creational.singleton;
-import com.programmingplanet.lld.designpatterns.DatabaseType;
+import com.programmingplanet.lld.designpatterns.creational.DatabaseType;
 
 import lombok.*;
 

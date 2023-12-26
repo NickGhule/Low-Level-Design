@@ -1,4 +1,4 @@
-package com.programmingplanet.lld.designpatterns;
+package com.programmingplanet.lld.designpatterns.creational;
 
 public enum DatabaseType {
     MYSQL,

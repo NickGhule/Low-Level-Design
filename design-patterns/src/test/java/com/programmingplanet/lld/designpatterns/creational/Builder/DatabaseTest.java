@@ -2,7 +2,7 @@ package com.programmingplanet.lld.designpatterns.creational.Builder;
 
 import org.junit.Test;
 
-import com.programmingplanet.lld.designpatterns.DatabaseType;
+import com.programmingplanet.lld.designpatterns.creational.DatabaseType;
 
 public class DatabaseTest {
     @Test

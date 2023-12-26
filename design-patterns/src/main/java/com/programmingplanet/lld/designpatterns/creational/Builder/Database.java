@@ -1,6 +1,6 @@
 package com.programmingplanet.lld.designpatterns.creational.Builder;
 
-import com.programmingplanet.lld.designpatterns.DatabaseType;
+import com.programmingplanet.lld.designpatterns.creational.DatabaseType;
 
 import lombok.Getter;
 
